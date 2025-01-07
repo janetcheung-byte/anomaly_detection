@@ -1,5 +1,19 @@
 # Anomaly Detection Using K-Means Clustering and Random Forest Classification
 
+## View the Rendered Notebook
+
+You can explore the full analysis and results in the rendered Jupyter Notebook:
+
+[Click here to view the notebook on nbviewer](https://nbviewer.org/github/janetcheung-byte/predictive_maintenance_model/blob/main/randomforest_classifier.ipynb)
+
+The notebook includes:
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- K-Means Clustering for Anomaly Detection
+- Random Forest Classification and Metrics
+- Visualizations of Key Findings
+
+
 ## Overview
 
 This analysis focuses on detecting anomalies in sensor data using K-Means clustering for grouping operational states and Random Forest classification for anomaly prediction. The dataset contains sensor readings from a complex system, and anomalies are identified based on deviations from normal operating conditions.
